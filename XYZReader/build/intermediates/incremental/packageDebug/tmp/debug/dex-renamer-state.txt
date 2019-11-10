@@ -1,0 +1,4 @@
+#Sun Nov 10 20:29:08 MMT 2019
+base.0=/Users/kaykhinewin/Documents/Projects/xyz-reader-starter-code-master/XYZReader/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
